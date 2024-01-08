@@ -7,3 +7,26 @@
   background: var(--clr-green-900);
   padding-block: 2rem;
 }
+
+.customersContainer {
+  width: 100%;
+}
+.customers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cardDetailsContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sofexs {
+  width: 100%;
+  height: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  justify-content: center;
+}
